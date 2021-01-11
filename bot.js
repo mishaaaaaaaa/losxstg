@@ -18,7 +18,6 @@ const moment = require("moment");
 moment.locale("tr")
 const chalk = require("chalk");
 require("./util/eventLoader")(client);
-require('./keep_alive.js')
 
 var prefix = ayarlar.prefix;
 
@@ -117,7 +116,6 @@ client.on("error", e => {
 });
 
 client.login(ayarlar.token);
-
 //-----------------------------------------------KOMUTLAR-------------------------------------------------\\
 
 
@@ -144,8 +142,8 @@ client.on("guildMemberAdd", async (member) => {
   
   
   client.on("guildMemberAdd", member => {  
-      const kanal = member.guild.channels.cache.find(r => r.id === '795703271020691456');
-      const register = `<@&795702938202406924>`
+      const kanal = member.guild.channels.cache.find(r => r.id === 'REGISTER KANAL ID');
+      const register = `<@&TEYİTÇİ ROL ID>`
       let los = client.users.cache.get(member.id);
       require("moment-duration-format");
         const kurulus = new Date().getTime() - los.createdAt.getTime();  
