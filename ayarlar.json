@@ -1,38 +1,38 @@
 {
-  "prefix" : "PREFIX GİR",
+  "prefix" : "+",
   
-  "sahip" : "SAHIP ID GİR",
+  "sahip" : "769665814726574090",
   
-  "token" : " O DEĞERLİ TOKENİNİN GİR",
+  "token" : "Nzk2ODUzMzc3ODQ5ODg0Njkz.X_d9ig.TdcTjluWG1eAXSxxbiNkPMclqnw",
   
-  "botVoiceChannelID" : "BOT SES KANALI ID GİR",
+  "botVoiceChannelID" : "798209643473141801",
   
-  "Guild" : "SUNUCU ID GİR",
+  "Guild" : "798193842390171698",
    
   
-  "tag" : "TAG GİR",
+  "tag" : "∢",
   
   
-  "booster" : "BOOSTER ROL ID",
-  "unregister" : "KAYITSIZ ROL ID",
-  "jailRol" : "JAIL ROL ID",
-  "şüpheli" : "ŞÜPHELİ ROL İD",
-  "tagRol" : "TAG ROL ID",
-  "emojiisim" : "EMOJİ İSMİ YAZ",
-  "erkekrol" : "ERKEK ROL ID",
-  "erkekrol2" : "ERKEK ROL ID",
-  "kadinrol" : "ERKEK ROL ID",
-  "kadinrol2" : "ERKEK ROL ID",
+  "booster" : "798210246036029512",
+  "unregister" : "798194114969337966",
+  "jailRol" : "798210354915966996",
+  "şüpheli" : "798203951392620555",
+  "tagRol" : "798210532708188160",
+  "emojiisim" : ":784477471680364565:",
+  "erkekrol" : "798194014402641940",
+  "erkekrol2" : "798211138079686696",
+  "kadinrol" : "798193989143887892",
+  "kadinrol2" : "798211218120638485",
   
-  "KayıtYetkilisi" : "KAYIT SORUMLUSU ROL ID",
-  "teyitçi" : "TEYİTÇİ ROL ID",
+  "KayıtYetkilisi" : "798203953644699668",
+  "teyitçi" : "798203953644699668",
 
   
   
-  "genelChat" : "CHAT KANAL ID",  
-  "kayitLog" : "KAYIT LOG ID",
-  "KayıtChat" : "KAYIT KANAL ID",
-  "tagLog" : "TAG LOG ID"
+  "genelChat" : "798201875286589490",  
+  "kayitLog" : "798214548388708422",
+  "KayıtChat" : "798193842829787176",
+  "tagLog" : "798214548388708422"
  
   
   
